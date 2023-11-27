@@ -69,6 +69,7 @@ DOMAIN,embyserver.ga
 
 # > 流媒体卷毛鼠服务器
 DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-SUFFIX,emby.pro
 
 # > 流媒体Emby终点站服务器
 DOMAIN-SUFFIX,emby.wtf

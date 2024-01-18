@@ -7,9 +7,8 @@ DOMAIN,osxapps.itunes.apple.com
 DOMAIN,oscdn.apple.com
 # Update
 DOMAIN,supportdownload.apple.com
-# Update
 DOMAIN,appldnld.apple.com
-# Update
+DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,swcdn.apple.com
 DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,updates-http.cdn-apple.com

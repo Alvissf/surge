@@ -77,6 +77,7 @@ IP-CIDR,65.75.221.23/32,no-resolve
 
 # > 流媒体Misty Emby服务器
 DOMAIN,aaa.ax
+DOMAIN,misty.cx
 
 # > 流媒体Bluesea Emby服务器
 DOMAIN-SUFFIX,blueseacdn.com

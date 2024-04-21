@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,emby.pro
 # > 流媒体Emby终点站服务器
 DOMAIN-SUFFIX,emby.wtf
+IP-CIDR,65.75.221.23/32,no-resolve
 # > 流媒体Misty Emby服务器
 DOMAIN,aaa.ax
 DOMAIN,misty.cx

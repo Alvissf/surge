@@ -10,7 +10,6 @@ DOMAIN,supportdownload.apple.com
 DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,swcdn.apple.com
-DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates.cdn-apple.com
 # App Store & iTunes Images
@@ -19,10 +18,11 @@ DOMAIN-SUFFIX,mzstatic.com
 PROCESS-NAME,storedownloadd
 # iOS App Store
 USER-AGENT,com.apple.appstored*
-# Apple Music Streaming
+# iTunes
 DOMAIN,aod.itunes.apple.com
 DOMAIN,mvod.itunes.apple.com
 DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,apptrailers.itunes.apple.com
 # Other
 DOMAIN,download.developer.apple.com
 DOMAIN,downloaddispatch.itunes.apple.com

@@ -44,3 +44,11 @@ DOMAIN,sequoia.apple.com
 DOMAIN,seed-sequoia.siri.apple.com
 # Settings
 DOMAIN,sq-device.apple.com
+# CN specific
+DOMAIN-KEYWORD,-cn.apple.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,apple.com.cn
+# locationd
+DOMAIN-SUFFIX,cn.apple.com
+DOMAIN-SUFFIX,cn.ls.apple.com
+DOMAIN-SUFFIX,cn-ssl.ls.apple.com

@@ -58,3 +58,24 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,appsto.re
+# PROCESS-NAME,trustd,🍎 AppleAPI
+# PROCESS-NAME,netbiosd,🍎 AppleAPI
+# PROCESS-NAME,com.apple.geod,🍎 AppleAPI
+# PROCESS-NAME,mapspushd,🍎 AppleAPI
+# PROCESS-NAME,com.apple.Maps,🍎 AppleAPI
+# PROCESS-NAME,apsd,🍎 AppleAPI
+# PROCESS-NAME,fmfd,🍎 AppleAPI
+# PROCESS-NAME,findmydevice-user-agent,🍎 AppleAPI
+# PROCESS-NAME,CoreLocationAgent,🍎 AppleAPI
+# PROCESS-NAME,WeatherWidget,🍎 AppleAPI
+# > Apple IP
+# IP-CIDR,17.0.0.0/8,🍎 AppleAPI,no-resolve
+# IP-CIDR,63.92.224.0/19,🍎 AppleAPI,no-resolve
+# IP-CIDR,65.199.22.0/23,🍎 AppleAPI,no-resolve
+# IP-CIDR,139.178.128.0/18,🍎 AppleAPI,no-resolve
+# IP-CIDR,144.178.0.0/19,🍎 AppleAPI,no-resolve
+# IP-CIDR,144.178.36.0/22,🍎 AppleAPI,no-resolve
+# IP-CIDR,144.178.48.0/20,🍎 AppleAPI,no-resolve
+# IP-CIDR,192.35.50.0/24,🍎 AppleAPI,no-resolve
+# IP-CIDR,198.183.17.0/24,🍎 AppleAPI,no-resolve
+IP-CIDR,205.180.175.0/24,🍎 AppleAPI,no-resolve

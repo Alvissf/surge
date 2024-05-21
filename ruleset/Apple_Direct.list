@@ -52,3 +52,5 @@ DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,cn.apple.com
 DOMAIN-SUFFIX,cn.ls.apple.com
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
+# custom
+DOMAIN-SUFFIX,icloud-content.com.cn

@@ -6,3 +6,4 @@ DOMAIN,oth.eve.mdt.qq.com
 DOMAIN,api.segment.io
 DOMAIN,sg.bls.mdt.qq.com
 DOMAIN-SUFFIX,ifs.tanx.com
+IP-CIDR,106.120.178.8/32,no-resolve

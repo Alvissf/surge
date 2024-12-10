@@ -1,6 +1,7 @@
 # > 流媒体卷毛鼠服务器
 DOMAIN-SUFFIX,jmsooo.com
 DOMAIN-SUFFIX,emby.pro
+DOMAIN-SUFFIX,jmsuper.com
 # > 流媒体Emby终点站服务器
 DOMAIN-SUFFIX,emby.wtf
 IP-CIDR,65.75.221.23/32,no-resolve

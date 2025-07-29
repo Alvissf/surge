@@ -1,17 +1,10 @@
 # > 流媒体卷毛鼠服务器
-DOMAIN-SUFFIX,jmsooo.com
-DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,jmsuper.com
 # > 流媒体Emby终点站服务器
 DOMAIN-SUFFIX,emby.wtf
-IP-CIDR,65.75.221.23/32,no-resolve
+DOMAIN-SUFFIX,term.wtf
 # > 流媒体Misty Emby服务器
 DOMAIN,misty.cx
-# > 流媒体Bluesea Emby服务器
-DOMAIN-SUFFIX,blueseacdn.com
-DOMAIN,bsem.ddns.me
 # > 流媒体pornemby VIP服务器
-DOMAIN,pornemby.club
-DOMAIN-SUFFIX,pornemby.xyz
-DOMAIN-SUFFIX,123emby.quest
 DOMAIN-SUFFIX,ii00.cc
+DOMAIN,music.mefun.vip

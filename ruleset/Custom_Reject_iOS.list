@@ -7,5 +7,11 @@ DOMAIN,route-stats.d.meituan.net
 DOMAIN,sensorsdata.hbooker.com
 # ele.me
 DOMAIN,push.ele.me
+# bilibili
+DOMAIN,data.bilibili.com
 # sentry.io
 DOMAIN-SUFFIX,sentry.io
+# mixpanel
+DOMAIN,api.mixpanel.com
+# branch.io
+DOMAIN,api2.branch.io

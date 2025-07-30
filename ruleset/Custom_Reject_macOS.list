@@ -2,10 +2,13 @@
 DOMAIN,api.devontechnologies.com
 # sentry.io
 DOMAIN-SUFFIX,sentry.io
+# segment
+DOMAIN-SUFFIX,segment.com
 # mixpanel
 DOMAIN,api.mixpanel.com
 # branch.io
 DOMAIN,api2.branch.io
+DOMAIN,api3.branch.io
 # bugsnag
 DOMAIN,notify.bugsnag.com
 DOMAIN,sessions.bugsnag.com
@@ -15,3 +18,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 # 
 DOMAIN,app-analytics-services.com
+DOMAIN,wanproxy.127.net
+DOMAIN,xyp-n.kuiniuca.com
+DOMAIN,mssdk.volces.com
+DOMAIN-SUFFIX,adashx.ut.hzshudian.com

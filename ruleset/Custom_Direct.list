@@ -6,11 +6,12 @@ DOMAIN-SUFFIX,nxns.link
 DOMAIN-SUFFIX,0000010.xyz
 DOMAIN,ecs-api.xns.one
 IP-CIDR,8.217.246.48/32,no-resolve
-# PronEmby
+# mefun
 DOMAIN,sptv.ii00.cc
 DOMAIN,sgtv.ii00.cc
 DOMAIN,g.once.im
 DOMAIN,p.once.im
+DOMAIN,cn-music.mefun.vip
 # Aidoku
 DOMAIN-SUFFIX,yemancomic.com
 DOMAIN-SUFFIX,miaoshangmanhua.cc

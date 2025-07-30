@@ -20,3 +20,7 @@ DOMAIN,notify.bugsnag.com
 DOMAIN,sessions.bugsnag.com
 # google
 DOMAIN,firebaselogging-pa.googleapis.com
+# crashlytics
+DOMAIN,firebase-settings.crashlytics.com
+# 
+DOMAIN,app-analytics-services.com

@@ -1,5 +1,7 @@
 # DEVONthink
 DOMAIN,api.devontechnologies.com
+# bilibili
+DOMAIN,data.bilibili.com
 # sentry.io
 DOMAIN-SUFFIX,sentry.io
 # segment

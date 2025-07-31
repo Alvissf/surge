@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,viglink.com
 DOMAIN,firebaselogging-pa.googleapis.com
 # crashlytics
 DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,settings.crashlytics.com
 # 
 DOMAIN,app-analytics-services.com
 DOMAIN,wanproxy.127.net
@@ -28,3 +29,4 @@ DOMAIN,mssdk.volces.com
 DOMAIN-SUFFIX,ut.hzshudian.com
 DOMAIN-SUFFIX,i.posthog.com
 DOMAIN-SUFFIX,matomo.cloud
+DOMAIN-SUFFIX,tanx.com

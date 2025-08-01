@@ -4,6 +4,7 @@ DOMAIN,maplocatesdksnapshot.d.meituan.net
 DOMAIN,al-log.d.meituan.net,REJECT
 DOMAIN,babel-statistics-android.d.meituan.net
 DOMAIN,route-stats.d.meituan.net
+# hbooker
 DOMAIN,sensorsdata.hbooker.com
 # ele.me
 DOMAIN,push.ele.me

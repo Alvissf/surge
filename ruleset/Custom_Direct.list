@@ -2,6 +2,7 @@
 DOMAIN,cdn.metaglide.org
 # NovaXNS
 DOMAIN,vxcdn.novaxns.one
+DOMAIN,v.xns.one
 DOMAIN-SUFFIX,nxns.link
 DOMAIN-SUFFIX,0000010.xyz
 DOMAIN,ecs-api.xns.one

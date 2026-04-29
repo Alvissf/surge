@@ -1,8 +1,8 @@
 # Nexitally
 DOMAIN,cdn.metaglide.org
-DOMAIN,wrecking7857.com
-DOMAIN,carrousel6917.com
-DOMAIN,simmering3378.com
+DOMAIN-SUFFIX,wrecking7857.com
+DOMAIN-SUFFIX,carrousel6917.com
+DOMAIN-SUFFIX,simmering3378.com
 # NovaXNS
 DOMAIN-SUFFIX,novaxns.one
 DOMAIN-SUFFIX,xns.one

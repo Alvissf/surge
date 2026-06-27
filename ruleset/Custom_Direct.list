@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,simmering3378.com
 DOMAIN-SUFFIX,novaxns.one
 DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,nxns.link
+IP-CIDR,217.217.33.20/32,no-resolve
+IP-CIDR,152.32.239.94/32,no-resolve
 # mefun
 DOMAIN,sptv.ii00.cc
 DOMAIN,sgtv.ii00.cc

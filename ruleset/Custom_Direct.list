@@ -3,6 +3,9 @@ DOMAIN,cdn.metaglide.org
 DOMAIN-SUFFIX,wrecking7857.com
 DOMAIN-SUFFIX,carrousel6917.com
 DOMAIN-SUFFIX,simmering3378.com
+DOMAIN-SUFFIX,kfzzxcx.com
+DOMAIN-SUFFIX,destitute2725.com
+DOMAIN-SUFFIX,prolonged3729.com
 # NovaXNS
 DOMAIN-SUFFIX,novaxns.one
 DOMAIN-SUFFIX,xns.one
@@ -19,3 +22,7 @@ DOMAIN,cn-music.mefun.vip
 DOMAIN-SUFFIX,yemancomic.com
 DOMAIN-SUFFIX,miaoshangmanhua.cc
 DOMAIN-SUFFIX,dmzj.com
+# Taobao
+DOMAIN-SUFFIX,amdc.m.taobao.com
+# Substack
+DOMAIN-SUFFIX,substack.com

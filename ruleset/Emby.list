@@ -3,9 +3,5 @@ DOMAIN-SUFFIX,jmsuper.com
 DOMAIN,mini.cr18.eu.org
 # > 流媒体Emby终点站服务器
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,term.wtf
-# > 流媒体Misty Emby服务器
-DOMAIN-SUFFIX,misty.cx
-# > 流媒体mefun VIP服务器
+\# > 流媒体mefun VIP服务器
 DOMAIN-SUFFIX,ii00.cc
-DOMAIN,music.mefun.vip
